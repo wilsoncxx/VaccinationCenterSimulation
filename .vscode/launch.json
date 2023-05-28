@@ -1,0 +1,190 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Java&JavaFX_678bc3e8"
+        },
+        {
+            "vmArgs": "--module-path C:/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml",
+            "type": "java",
+            "name": "Launch VCHallSimulator_JavaFX",
+            "request": "launch",
+            "mainClass": "VCHallSimulator_JavaFX",
+            "projectName": "Java&JavaFX_678bc3e8"
+        },
+        {
+            "vmArgs": "--module-path C:/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml",
+            "type": "java",
+            "name": "Launch VC_JavaFX",
+            "request": "launch",
+            "mainClass": "VC_JavaFX",
+            "projectName": "Java&JavaFX_678bc3e8"
+        },
+        {
+            "vmArgs": "--module-path C:/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml",
+            "type": "java",
+            "name": "Launch Recipient_JavaFX",
+            "request": "launch",
+            "mainClass": "Recipient_JavaFX",
+            "projectName": "Java&JavaFX_678bc3e8"
+        },
+        {
+            "vmArgs": "--module-path C:/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml",
+            "type": "java",
+            "name": "Launch MOH_JavaFX",
+            "request": "launch",
+            "mainClass": "MOH_JavaFX",
+            "projectName": "Java&JavaFX_678bc3e8"
+        },
+        {
+            "vmArgs": "--module-path C:/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml",
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Java&JavaFX_8e8774d"
+        },
+        {
+            "vmArgs": "--module-path C:/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml",
+            "type": "java",
+            "name": "Launch VC_JavaFX",
+            "request": "launch",
+            "mainClass": "VC_JavaFX",
+            "projectName": "Java&JavaFX_8e8774d"
+        },
+        {
+            "vmArgs": "--module-path C:/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml",
+            "type": "java",
+            "name": "Launch Recipient_JavaFX",
+            "request": "launch",
+            "mainClass": "Recipient_JavaFX",
+            "projectName": "Java&JavaFX_8e8774d"
+        },
+        {
+            "vmArgs": "--module-path C:/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml",
+            "type": "java",
+            "name": "Launch VCHallSimulator_JavaFX",
+            "request": "launch",
+            "mainClass": "VCHallSimulator_JavaFX",
+            "projectName": "Java&JavaFX_8e8774d"
+        },
+        {
+            "vmArgs": "--module-path C:/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml",
+            "type": "java",
+            "name": "Launch MOH_JavaFX",
+            "request": "launch",
+            "mainClass": "MOH_JavaFX",
+            "projectName": "Java&JavaFX_8e8774d"
+        },
+        {
+            "vmArgs": "--module-path C:/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml",
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Java&JavaFX_fccc6da7"
+        },
+        {
+            "vmArgs": "--module-path C:/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml",
+            "type": "java",
+            "name": "Launch VCHallSimulator_JavaFX",
+            "request": "launch",
+            "mainClass": "VCHallSimulator_JavaFX",
+            "projectName": "Java&JavaFX_fccc6da7"
+        },
+        {
+            "vmArgs": "--module-path C:/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml",
+            "type": "java",
+            "name": "Launch MOH_JavaFX",
+            "request": "launch",
+            "mainClass": "MOH_JavaFX",
+            "projectName": "Java&JavaFX_fccc6da7"
+        },
+        {
+            "vmArgs": "--module-path C:/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml",
+            "type": "java",
+            "name": "Launch VC_JavaFX",
+            "request": "launch",
+            "mainClass": "VC_JavaFX",
+            "projectName": "Java&JavaFX_fccc6da7"
+        },
+        {
+            "vmArgs": "--module-path C:/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml",
+            "type": "java",
+            "name": "Launch Recipient_JavaFX",
+            "request": "launch",
+            "mainClass": "Recipient_JavaFX",
+            "projectName": "Java&JavaFX_fccc6da7"
+        },
+        {
+            "vmArgs": "--module-path C:/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml",
+            "type": "java",
+            "name": "Launch MOH_JavaFX",
+            "request": "launch",
+            "mainClass": "MOH_JavaFX",
+            "projectName": "Assignment2_JavaFX_775bd9d4"
+        },
+        {
+            "vmArgs": "--module-path C:/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml",
+            "type": "java",
+            "name": "Launch VCHallSimulator_JavaFX",
+            "request": "launch",
+            "mainClass": "VCHallSimulator_JavaFX",
+            "projectName": "Assignment2_JavaFX_775bd9d4"
+        },
+        {
+            "vmArgs": "--module-path C:/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml",
+            "type": "java",
+            "name": "Launch VC_JavaFX",
+            "request": "launch",
+            "mainClass": "VC_JavaFX",
+            "projectName": "Assignment2_JavaFX_775bd9d4"
+        },
+        {
+            "vmArgs": "--module-path C:/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml",
+            "type": "java",
+            "name": "Launch Recipient_JavaFX",
+            "request": "launch",
+            "mainClass": "Recipient_JavaFX",
+            "projectName": "Assignment2_JavaFX_775bd9d4"
+        },
+        {
+            "vmArgs": "--module-path C:/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml",
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "vmArgs": "--module-path C:/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml",
+            "type": "java",
+            "name": "Launch JavaFX",
+            "request": "launch",
+            "mainClass": "JavaFX",
+            "projectName": "Assignment2_JavaFX_775bd9d4"
+        },
+        {
+            "vmArgs": "--module-path C:/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml",
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Assignment2_JavaFX_775bd9d4"
+        },
+        {
+            "vmArgs": "--module-path C:/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml",
+            "type": "java",
+            "name": "Launch StageExamples",
+            "request": "launch",
+            "mainClass": "StageExamples",
+            "projectName": "Assignment2_JavaFX_775bd9d4"
+        }
+    ]
+}
